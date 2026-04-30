@@ -6,7 +6,8 @@ shirai(){
 
 }
 
-oouti(){
+oouti(){hitori shizuka heyanokatasumide shitatarutiwo
+nagameteita
 
     
 }
