@@ -1,2 +1,12 @@
 unnko
 monenaoishii
+
+
+shirai(){
+
+}
+
+oouti(){
+
+    
+}
