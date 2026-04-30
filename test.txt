@@ -3,11 +3,12 @@ monenaoishii
 
 
 shirai(){
-
+    shirai;
+    shirai;
 }
 
-oouti(){hitori shizuka heyanokatasumide shitatarutiwo
+oouti(){hitori shizuka heyanokatasumide hey
 nagameteita
 
-    
+
 }
